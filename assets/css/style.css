@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+
+}
+
+header {
+    height: 75px;
+    padding-top: 28px;
+    padding-left: 35px;
+    margin-bottom: 35px;
+    background-color: darkolivegreen;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Sancreek', cursive;
+    font-weight: bolder;
+    
+}
+
+h2 {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Sancreek', cursive;
+    color: darkolivegreen;
+    margin-left: 35px;
+}
